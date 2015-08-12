@@ -1,7 +1,7 @@
 {
   "name": "visual-studio-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mimics the dark theme of Visual Studio 2015",
   "keywords": [
     "syntax",
