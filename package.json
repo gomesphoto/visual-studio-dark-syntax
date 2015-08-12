@@ -1,15 +1,15 @@
 {
   "name": "visual-studio-dark-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Mimics the dark theme of Visual Studio 2015",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/Kromi75/vs-dark-syntax",
+  "repository": "https://github.com/Kromi75/visual-studio-dark-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0"
   }
 }
