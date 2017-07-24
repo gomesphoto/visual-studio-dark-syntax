@@ -10,6 +10,6 @@
   "repository": "https://github.com/Kromi75/visual-studio-dark-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0"
+    "atom": ">=1.13.0"
   }
 }
